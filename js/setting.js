@@ -39,4 +39,4 @@ OpenSpending.Styles.Cofog = {
   '8-1': { icon: 'icons/c_syoukougyou.svg', color: '#D33673', bcolor: '#D33673' },
   '8-2': { icon: 'icons/unemployment.svg', color: '#D33673', bcolor: '#D33673' },
   '8-3': { icon: 'icons/c_nougyou.svg', color: '#D33673', bcolor: '#D33673' }
-
+};
